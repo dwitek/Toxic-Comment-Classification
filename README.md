@@ -18,4 +18,4 @@
 #### 4. Explore files of the project
 
 ## Final result of Toxic Comments Classification
-The final result of this project is combined in single notebook - *Final.ipynb*. It contains everything to smoothy reproduce results that were achieved.
+The final result of this project is combined in single notebook - *Final.ipynb*. It contains everything to smoothly reproduce results that were achieved.
